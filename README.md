@@ -2,7 +2,7 @@
 Content based Movie Recommendation System Used to Suggest Movie to user based their searches
 
 ![Python](https://img.shields.io/badge/Python-3.10.4-blueviolet)
-![Framework](https://img.shields.io/badge/Framework-streamlit-red)
+![library](https://img.shields.io/badge/Framework-streamlit-red)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
 Content Based Recommender System recommends movies similar to the movie user likes .It Suggest 5 Movies based on their recommendation.
