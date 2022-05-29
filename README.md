@@ -7,6 +7,9 @@ Content based Movie Recommendation System Used to Suggest Movie to user based th
 
 Content Based Recommender System recommends movies similar to the movie user likes .It Suggest 5 Movies based on their recommendation.
 
+![image](https://user-images.githubusercontent.com/84464407/170871638-ef244e78-28f0-4e7d-a5d0-6c22c0d331de.png)
+
+
 The details of the movies(title, genre, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API.
 
 
