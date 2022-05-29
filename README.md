@@ -34,7 +34,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
    It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
    
    
-   ##Similarity.pkl link
+   ##Similarity.pkl 
    link = https://drive.google.com/file/d/1LjhnnVhC5qP3VX9LzcrQn4iv3Knhlgi9/view?usp=sharing
    
    ## Source of the Dataset
