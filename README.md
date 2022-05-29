@@ -2,12 +2,13 @@
 Content based Movie Recommendation System Used to Suggest Movie to user based their searches
 
 ![Python](https://img.shields.io/badge/Python-3.10.4-blueviolet)
-![Library](https://img.shields.io/badge/Library-streamlit-red)
+![Framework](https://img.shields.io/badge/Framework-streamlit-red)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
 Content Based Recommender System recommends movies similar to the movie user likes .It Suggest 5 Movies based on their recommendation.
 
 The details of the movies(title, genre, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API.
+
 
 # Frontend 
 
@@ -31,6 +32,10 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
    How does it decide which item is most similar to the item user likes? Here come the similarity scores.
    
    It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
+   
+   
+   ##Similarity.pkl link
+   link = https://drive.google.com/file/d/1LjhnnVhC5qP3VX9LzcrQn4iv3Knhlgi9/view?usp=sharing
    
    ## Source of the Dataset
    https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
